@@ -1,1 +1,3 @@
 # GAODE_POI_datascraping
+
+CHECK: POI STATEMENT.DOCX
